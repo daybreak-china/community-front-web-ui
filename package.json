@@ -1,0 +1,22 @@
+{
+  "name": "community-front-web-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daybreak-china/community-front-web-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daybreak-china/community-front-web-ui/issues"
+  },
+  "homepage": "https://github.com/daybreak-china/community-front-web-ui#readme",
+  "dependencies": {
+    "@material/ripple": "^0.41.0"
+  }
+}
